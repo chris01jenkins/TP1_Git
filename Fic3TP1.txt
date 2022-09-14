@@ -1,3 +1,7 @@
 Fic3TP1.txt
 
+<<<<<<< HEAD
 pour conflit2 (local)
+=======
+pour conflit2
+>>>>>>> 1e409e7ea6a447402c6412109f6c25f527e1fd9a
